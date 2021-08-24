@@ -1,6 +1,6 @@
 certifi==2021.5.30
 chardet==3.0.4
-Click==7.1.2
+Click==8.0.1
 Deprecated==1.2.12
 idna==2.10
 Jinja2==2.11.3
